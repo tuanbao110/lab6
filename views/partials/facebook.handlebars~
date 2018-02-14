@@ -5,7 +5,7 @@
       appId      : '141519306660972',
       cookie     : true,
       xfbml      : true,
-      version    : 'v2.12'
+      version    : '{latest-api-version}'
     });
       
     FB.AppEvents.logPageView();   
